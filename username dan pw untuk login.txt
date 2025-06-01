@@ -1,0 +1,8 @@
+Admin:
+
+username: KOR1502c246
+password: BoSO3I#v68WY
+
+Kepala Sekolah:
+username: ERS8187f614
+password: Q^DShU&goj8}
